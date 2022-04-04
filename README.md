@@ -4,6 +4,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
+### My contribution to the community:
+- https://www.npmjs.com/package/rich-text-to-html / [fork me][rich-text-to-html-repo]
+- https://vuetify-classes.netlify.app / [fork me][vuetify-classes-repo]
+
 ### Connect with me:
 
 [<img align="left" alt="Klimonov" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -28,6 +32,8 @@
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Klimonov&show_icons=true&hide_border=true&hide=stars&count_private=false&include_all_commits=true" />
 
+[vuetify-classes-repo]: https://github.com/Klimonov/vuetify-classes
+[rich-text-to-html-repo]: https://github.com/Klimonov/rich-text-to-html
 [devteamwebsite]: https://dev-team.club/
 [website]: http://klimonov.github.io/
 [instagram]: https://www.instagram.com/kklimonov/
