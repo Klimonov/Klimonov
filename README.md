@@ -2,7 +2,7 @@
 - 🔭 I’m currently working in [dev-team.club][devteamwebsite]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### My contribution to the community:
 - https://www.npmjs.com/package/rich-text-to-html / [fork me][rich-text-to-html-repo]
